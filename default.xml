@@ -10,7 +10,7 @@
 	<project path="bootloader/u-boot-2018.11" name="u-boot.git" remote="STMicrolectronics" revision="refs/tags/v2018.11-stm32mp-r3"/>
 	<project path="multistrap/" name="osd32mp1-multistrap-buster.git" remote="octavo" revision="master"/>
 	<project path="docker/" name="osd32mp1-debian-docker.git" remote="octavo" revision="master"/>
-	<project path="build-tools/" name="osd32mp1-build-tools.git" remote="avinash-tri">
+	<project path="build-tools/" name="osd32mp1-build-tools.git" remote="avinash-tri" revision="main">
 		<linkfile src="Makefile" dest="Makefile" />
 	</project>
 
