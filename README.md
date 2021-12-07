@@ -63,6 +63,8 @@ The following version of the image are supported in release:
 Install Cube Programmer from here: https://www.st.com/en/development-tools/stm32cubeprog.html
 Please see https://wiki.st.com/stm32mpu/wiki/STM32CubeProgrammer for Cube Programmer installation instructions and setup.
 
+Note, I've always had difficulty using the ubuntu snap for repo, so instead it's best to follow the manual installation instructions [here](https://gerrit.googlesource.com/git-repo/)
+
 ### Get SDK source code
 1. ```mkdir ~/osd32mp1-workspace```
 2. ```cd ~/osd32mp1-workspace```
